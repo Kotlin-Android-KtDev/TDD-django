@@ -84,3 +84,11 @@ JavaScript error: , line 0: UnknownError: The operation failed for reasons unrel
 [Parent 7585, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
 JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
 1577186571873	Marionette	INFO	Stopped listening on port 38251
+1577285599259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecp5LTn"
+1577285600253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577285600253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577285600253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577285600254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577285603567	Marionette	INFO	Listening on port 33985
+1577285603593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577285603878	Marionette	INFO	Stopped listening on port 33985
